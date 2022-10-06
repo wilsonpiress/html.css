@@ -1,2 +1,2 @@
 # html.css
- Esse projeto é um formulário que estou estudando HTML e CSS.
+ Esse é um projeto simples de formulário que aprendi estudando HTML e CSS.
